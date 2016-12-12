@@ -1,2 +1,3 @@
-# ng2-material-design
-A sample application using Angular 2 and the Angular Material Design
+## Sample Application
+
+A small and simple application using Angular2, TypeScript 2 and Webpack
